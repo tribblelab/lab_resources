@@ -21,7 +21,7 @@
 - [Garden Club of America Medical Botany Scholarship](https://www.gcamerica.org/scholarships/details/scholarship/Medical-Botany-Scholarship)
 - [Additional Garden Club Grants](https://www.gcamerica.org/scholarships)
 - [Torrey Botanical Society Undergrad Fellowship](https://www.torreybotanical.org/grants-fellowships/)
-- [Society of Herbarium Curators](https://www.herbariumcurators.org/grants/)
+- [Society of Herbarium Curators](https://www.herbariumcurators.org/awards/)
 - [Southern Appalachian Botanical Society](https://sabs.appstate.edu/student-support/research-awards)
 - [Sigma Xi Grants in Aid of Research](https://www.sigmaxi.org/programs/grants-in-aid)
 - [Society of Wetland Scientists](https://www.sws.org/Awards-and-Grants/sws-student-awards-and-grants.html)
