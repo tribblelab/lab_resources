@@ -22,4 +22,14 @@
 - Botanical Society of America [Graduate Student Dissertation Award in Phylogenetic Comparative Plant Biology](https://botany.org/home/awards/awards-for-students/cpd-award.html), Application opening: Early 2025
 - Society for the Study of Evolution [Graduate Research Excellence Grant (GREG) - Rosemary Grant Advanced Award](https://www.evolutionsociety.org/content/society-awards-and-prizes/graduate-research-excellence-grants/rosemary-grant-advanced-award.html), Previous due date: Oct
 
+## Fellowships
+1. **National Science Foundation Graduate Research Traineeship**
+   - [NSF GRFP Examples](https://docs.google.com/spreadsheets/d/1xoezGhbtcpg3BvNdag2F5dTQM-Xl2EELUgAfG1eUg0s/edit#gid=0)
+2. **Gilliam HHMI Fellows Program**
+   - [More info](https://www.hhmi.org/science-education/programs/gilliam-fellows-program)
+
+## Additional sources
+- [EEB grad research funds (compiled by UChicago](https://evbio.uchicago.edu/page/grants-fellowships-other-funding)
+
+
   
