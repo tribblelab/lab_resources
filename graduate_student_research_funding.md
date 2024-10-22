@@ -28,6 +28,8 @@
    - [NSF GRFP Examples](https://docs.google.com/spreadsheets/d/1xoezGhbtcpg3BvNdag2F5dTQM-Xl2EELUgAfG1eUg0s/edit#gid=0)
 2. **Gilliam HHMI Fellows Program**
    - [More info](https://www.hhmi.org/science-education/programs/gilliam-fellows-program)
+3. **DOE Computational Science Graduate Fellowship (DOE CSGF)**
+   - [More info](https://www.energy.gov/doe-stem/events/doe-computational-science-graduate-fellowship-doe-csgf)
 
 ## Additional sources
 - [EEB grad research funds (compiled by UChicago](https://evbio.uchicago.edu/page/grants-fellowships-other-funding)
