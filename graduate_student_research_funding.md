@@ -13,7 +13,7 @@
 - California Botanical Society [Paul Silva Student Research Grant](https://calbotsoc.org/paul-silva-application-details/), Deadline not listed (undergraduate award also avalable)
 - Washington Native Plant Society [Conservation Grant](https://www.wnps.org/conservation-grants), 2025 Deadline: March 1 (undergraduate award also avalable)
 - American Philosophical Society [Lewis and Clark Fund for Exploration and Field Research](https://www.amphilsoc.org/grants/lewis-and-clark-fund-exploration-and-field-research), 2024 Deadline: November 15
-- Torrey Botanical Society [Graduate Student Research Fellowship](https://www.torreybotanical.org/grants-awards/torrey-botanical-society-grad-student-research-fellowship/), 2025 Deadline: January 15
+- Torrey Botanical Society [Graduate Student Research Fellowship](https://www.torreybotanical.org/grants-awards/torrey-botanical-society-grad-student-research-fellowship/), 2025 Deadline: Feb 15
 - Linnean Society [The LinnéSys: Systematics Research Fund](https://www.linnean.org/the-society/medals-awards-prizes-grants/linnesys-fund), Application opening: 2025 (undergraduate award also avalable)
 
 ## Travel grants
