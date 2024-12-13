@@ -9,7 +9,8 @@ Introductory and advanced material for independently learning phylogenetic metho
 - Bodega workshop materials: https://treethinkers.org/2019-bodega-applied-phylogenetics-workshop-schedule/
 - Woods Hole workshop materials: https://molevolworkshop.github.io/schedule/
 - Felsenstein's Inferring Phylogenies: https://www.google.com/books/edition/Inferring_Phylogenies/GI6PQgAACAAJ?hl=en
-- Paul Lewis' phyloseminar http://phyloseminar.org/recorded.html
+- Paul Lewis' Primers [Here](https://www.youtube.com/watch?v=TLtOS--YwkU), [here](https://www.youtube.com/watch?v=4PWlnNsfz90), [here](https://www.youtube.com/watch?v=UsLeY0wZr4Y), and [here](https://www.youtube.com/watch?v=1r4z0YJq580)
+
 ### Software:
 - SNaQ: https://solislemuslab.github.io/snaq-tutorial/	
 - RevBayes: https://revbayes.github.io/tutorials/
@@ -22,3 +23,4 @@ Introductory and advanced material for independently learning phylogenetic metho
 - State dependent diversification:
 	- https://roszenil.github.io/portfolio/SSBworkshop/
 	- https://roszenil.github.io/portfolio/SDD/
+ - Various topics covered in [Phyloseminar](http://phyloseminar.org/recorded.html)
