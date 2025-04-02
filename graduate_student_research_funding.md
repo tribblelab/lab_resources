@@ -18,7 +18,7 @@
 
 ## Travel grants
 - Botanical Society of America [Botany Conference Travel Awards for Students](https://botany.org/home/awards/travel-awards-for-students/grad_postdoc_travel.html), Application opening: Early 2025 (undergraduate award also avalable)
-- University of Washington Graduate and Professional Student Senate [GPSS Travel Grants]([https://botany.org/home/awards/travel-awards-for-students/grad_postdoc_travel.html](https://www.gpss.uw.edu/fundings/travel-grants/?mkt_tok=NTI3LUFIUi0yNjUAAAGZlf56_pPSJhyR2UzAWoI2oqtEoG6RgRZj8AO7OJLN-vWhFfsjxpE9_kldSLAz9peIanOCSDrbsYksNw3wex2DCmzzvfoa3eMTJm0yQLrjOUWP)), Application rolling
+- University of Washington Graduate and Professional Student Senate [GPSS Travel Grants](https://www.gpss.uw.edu/fundings/travel-grants/?mkt_tok=NTI3LUFIUi0yNjUAAAGZlf56_pPSJhyR2UzAWoI2oqtEoG6RgRZj8AO7OJLN-vWhFfsjxpE9_kldSLAz9peIanOCSDrbsYksNw3wex2DCmzzvfoa3eMTJm0yQLrjOUWP), Application rolling
 
 ## Late stage grants
 - Botanical Society of America [Graduate Student Dissertation Award in Phylogenetic Comparative Plant Biology](https://botany.org/home/awards/awards-for-students/cpd-award.html), Application opening: Early 2025
