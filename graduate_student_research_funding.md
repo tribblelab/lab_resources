@@ -14,6 +14,7 @@
 - Northern California Botanists [Barbara Castro Student Botany Research Scholarship Program](https://norcalbotanists.org/scholarships/botany-research-scholarship-program/), (undergraduate award also avalable)
 - Washington Native Plant Society [Conservation Grant](https://www.wnps.org/conservation-grants), Due March (undergraduate award also avalable)
 - American Philosophical Society [Lewis and Clark Fund for Exploration and Field Research](https://www.amphilsoc.org/grants/lewis-and-clark-fund-exploration-and-field-research), Due Nov.
+- Pacific Bulb Society [Mary Sue Ittner Grant for Bulb Research](https://www.pacificbulbsociety.org/pbsforum/index.php?page=grant), Due March (not restricted to students)
 - Torrey Botanical Society [Graduate Student Research Fellowship](https://www.torreybotanical.org/grants-awards/torrey-botanical-society-grad-student-research-fellowship/), Due Feb.
 - Linnean Society [The LinnéSys: Systematics Research Fund](https://www.linnean.org/the-society/medals-awards-prizes-grants/linnesys-fund), (undergraduate award also avalable)
 
