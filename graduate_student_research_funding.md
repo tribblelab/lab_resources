@@ -9,7 +9,7 @@
 - National Geographic Society [Grants Program](https://natgeo.my.salesforce.com/sfc/p/#36000000paDj/a/3p000000SDXp/RRHV9o3kxWV6.gmZxkU5f_J5tqYIusSe_XdPr0BbI6Y), (scicom awards also avalable)
 - Garden Club of America [Fellowship in Tropical Botany](https://www.gcamerica.org/scholarships/details/s/gca-awards-in-tropical-botany), Due Jan.
 - The Explorer's Club [Grants Program](https://www.explorers.org/grants/), (undergraduate and scicom awards also avalable)
-- California Native Plant Society [Research Grants](https://www.cnps.org/education/students/grants), Due Oct.
+- California Native Plant Society [Research Grants](https://www.cnps.org/education/students/grants), Due Oct.(undergraduate and non-student awards also avalable)
 - California Botanical Society [Paul Silva Student Research Grant](https://calbotsoc.org/paul-silva-application-details/), (undergraduate award also avalable)
 - Northern California Botanists [Barbara Castro Student Botany Research Scholarship Program](https://norcalbotanists.org/scholarships/botany-research-scholarship-program/), (undergraduate award also avalable)
 - Washington Native Plant Society [Conservation Grant](https://www.wnps.org/conservation-grants), Due March (undergraduate award also avalable)
