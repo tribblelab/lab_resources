@@ -25,6 +25,7 @@
 ## Late stage grants
 - Botanical Society of America [Graduate Student Dissertation Award in Phylogenetic Comparative Plant Biology](https://botany.org/home/awards/awards-for-students/cpd-award.html)
 - Society for the Study of Evolution [Graduate Research Excellence Grant (GREG) - Rosemary Grant Advanced Award](https://www.evolutionsociety.org/content/society-awards-and-prizes/graduate-research-excellence-grants/rosemary-grant-advanced-award.html), Due Oct.
+- UW Graduate Student Equity and Excellence (GSEE) [GSEE Final Year Dissertation Award](https://grad.uw.edu/funding_posts/gsee-final-year-dissertation-award/), Due Sept.
 
 ## Fellowships
 1. **National Science Foundation Graduate Research Traineeship**
