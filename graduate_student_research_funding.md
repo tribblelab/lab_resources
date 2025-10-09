@@ -26,7 +26,7 @@
 - Botanical Society of America [Graduate Student Dissertation Award in Phylogenetic Comparative Plant Biology](https://botany.org/home/awards/awards-for-students/cpd-award.html)
 - Society for the Study of Evolution [Graduate Research Excellence Grant (GREG) - Rosemary Grant Advanced Award](https://www.evolutionsociety.org/content/society-awards-and-prizes/graduate-research-excellence-grants/rosemary-grant-advanced-award.html), Due Oct.
 - UW Graduate Student Equity and Excellence (GSEE) [GSEE Final Year Dissertation Award](https://grad.uw.edu/funding_posts/gsee-final-year-dissertation-award/), Due Sept.
-
+- WA Space Grant [WASG Dissertation Completion Award](https://www.waspacegrant.org/opportunities/listing/wasg-dissertation-completion-award/), Due Oct.
 ## Fellowships
 1. **National Science Foundation Graduate Research Traineeship**
    - [NSF GRFP Examples](https://docs.google.com/spreadsheets/d/1xoezGhbtcpg3BvNdag2F5dTQM-Xl2EELUgAfG1eUg0s/edit#gid=0)
