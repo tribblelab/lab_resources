@@ -17,6 +17,7 @@
 - Pacific Bulb Society [Mary Sue Ittner Grant for Bulb Research](https://www.pacificbulbsociety.org/pbsforum/index.php?page=grant), Due March (not restricted to students)
 - Torrey Botanical Society [Graduate Student Research Fellowship](https://www.torreybotanical.org/grants-awards/torrey-botanical-society-grad-student-research-fellowship/), Due Feb.
 - Linnean Society [The LinnéSys: Systematics Research Fund](https://www.linnean.org/the-society/medals-awards-prizes-grants/linnesys-fund), (undergraduate award also avalable)
+- Phipps Conservatory and Botanical Gardens [Botany in Action](https://www.phipps.conservatory.org/green-innovation/for-the-world/botany-in-action/call-for-proposals), Due Jan.
 
 ## Travel grants
 - Botanical Society of America [Botany Conference Travel Awards for Students](https://botany.org/home/awards/travel-awards-for-students/grad_postdoc_travel.html), (undergraduate award also avalable)
