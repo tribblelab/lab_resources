@@ -16,7 +16,6 @@
 - [ASPT undergrad prize](https://www.aspt.net/undergrad-prize) (more of a prize than funding)
 - [BSA undergrad research award](https://botany.org/home/awards/awards-for-students/bsaundergraduatestudentresearchawards.html)
 - [BSA undergrad young botanist award](https://botany.org/home/awards/awards-for-students/bsayoungbotanistawards.html) (no money)
-- [BSA PLANTS program](https://cms.botany.org/home/awards/student/undergraduate-awards/Plants-program.html)
 - [Garden Club of America Field Botany Scholarship](https://www.gcamerica.org/scholarships/details/scholarship/Field-Botany-Scholarship)
 - [Garden Club of America Medical Botany Scholarship](https://www.gcamerica.org/scholarships/details/scholarship/Medical-Botany-Scholarship)
 - [Additional Garden Club Grants](https://www.gcamerica.org/scholarships)
@@ -29,9 +28,7 @@
 - [American Ornithological Society Grants](https://americanornithology.org/awards-grants-and-prizes/research-awards/)
 - [American Society of Mammalogists Awards](https://www.mammalogy.org/committees/education-and-grants/education-and-grants-awards)
 - [Conchologists of America](https://conchologistsofamerica.org/grants/) (rarely awarded to undergrads)
-- [Wilson Ornithological Society](https://wilsonsociety.org/awards/grants/)
 - [Stuff in Germany](https://www.daad.org/en/find-funding/undergraduate-opportunities/)
-- [Lepidopterist Society](https://www.lepsoc.org/content/awards-and-grants)
 - [Association for Fire Ecology TREE Grants](https://fireecology.org/tree-grant)
 - [ESA SEEDS Program](https://esa.org/seeds/)
 
