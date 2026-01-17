@@ -31,6 +31,8 @@
 - [Stuff in Germany](https://www.daad.org/en/find-funding/undergraduate-opportunities/)
 - [Association for Fire Ecology TREE Grants](https://fireecology.org/tree-grant)
 - [ESA SEEDS Program](https://esa.org/seeds/)
+## Conference Travel Awards
+  - Root and Shoot [Root and Shoot travel awards](https://rootandshoot.org), Due Dec. (At least one of the student/mentor pair must be an active member of either SACNAS, MANRRS, or AISES.)
 
 ## Graduate School Independent Funding (Scholarships/ Fellowships)
 1. **National Science Foundation Graduate Research Traineeship**
