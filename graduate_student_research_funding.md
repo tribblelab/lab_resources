@@ -39,6 +39,8 @@
    - [More info](https://www.energy.gov/doe-stem/events/doe-computational-science-graduate-fellowship-doe-csgf)
 4. **Simons Graduate Fellowships in Ecology and Evolution**
    - [More info](https://www.simonsfoundation.org/grant/simons-graduate-fellowships-in-ecology-and-evolution/)
+5. **American Association of University Women Doctoral Fellowship**
+   - [More info](https://www.aauw.org/resources/programs/fellowships-grants/american-doctoral-fellowship-program/)
      
 
 ## Additional sources
