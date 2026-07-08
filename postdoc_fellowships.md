@@ -36,6 +36,7 @@
 - [University of Georgia FFIRE Fellowships](https://postdocs.uga.edu/ffire/)
 - [Schmidt Science Fellows Program](https://schmidtsciencefellows.org/)
 - [WRF Postdoctoral Fellowship](https://www.wrfseattle.org/grants/wrf-postdoctoral-fellowships/) (Washington-specific)
+- [Junior Fellows of the Simons Society of Fellows](https://www.simonsfoundation.org/grant/simons-society-of-fellows-nominations/?utm_source=Simons+Foundation&utm_campaign=2924e3f2ff-SF_MONTHLY_NEWSLETTER_JULY_2026&utm_medium=email&utm_term=0_-3984777585-746482309) (For work in New York City)
 
 ## Get me out of academia postdocs (Training in applied/agency work included)
 
