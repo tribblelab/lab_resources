@@ -33,7 +33,8 @@
 - [ESA SEEDS Program](https://esa.org/seeds/)
 ## Conference Travel Awards
   - Root and Shoot [Root and Shoot travel awards](https://rootandshoot.org), Due Dec. (At least one of the student/mentor pair must be an active member of either SACNAS, MANRRS, or AISES.)
-  - Society for the Study of Evolution [Undergraduate Community at Evolution](https://www.evolutionsociety.org/content/education/undergraduate-community-at-evolution.html), Due Jan. 
+  - Society for the Study of Evolution [Undergraduate Community at Evolution](https://www.evolutionsociety.org/content/education/undergraduate-community-at-evolution.html), Due Jan.
+  - PLANTS program through the [Botanical Society of America](botany.org), apps are typically due in March. Information from 2026 cycle is available [here](https://botany.org/home/awards/travel-awards-for-students/plants-grants/about-plants.html).
 
 ## Graduate School Independent Funding (Scholarships/ Fellowships)
 1. **National Science Foundation Graduate Research Traineeship**
